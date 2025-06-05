@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="自我介紹.css">
+</head>
+      <h1>我是許瑋庭</h1>
+      <p>
+       很高興有機會向大家介紹自己。
+      </p>
+      <p>
+        我畢業於林口高中，目前就讀金門大學資工系一年級。
+      </p>
+</html>
